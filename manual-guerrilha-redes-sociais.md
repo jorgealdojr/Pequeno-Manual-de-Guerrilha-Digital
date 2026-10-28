@@ -114,6 +114,25 @@ O que acontece é que aprendemos que a civilidade nasce de um acordo coletivo em
 
 ---
 
+## Trending topics e hashtags
+
+Além do feed do X/Twitter — onde o que você vê é organizado pelos critérios discutidos anteriormente — existe outro mecanismo de visibilidade: as **trending topics**. Elas funcionam como uma espécie de seletor de canais da televisão, só que digital e dinâmico. Na prática, criam atalhos para temas que precisam ganhar destaque imediato e podem influenciar o que o restante da plataforma passa a discutir.
+
+No passado, agentes políticos recorreram a **fazendas de bots** para tentar controlar trending topics e, por meio delas, pautar o debate. Com o tempo, as plataformas evoluíram seus sistemas de detecção de automação, spam e comportamento coordenado. Isso não significa que o fenômeno desapareceu, mas que a simples produção artificial de volume ficou mais arriscada e menos eficaz.
+
+Para disputar esse espaço de forma legítima, a estratégia não é “parecer humano” para enganar o algoritmo, e sim **participar de verdade**. Algoritmos de detecção observam padrões: contas novas, repetição excessiva, textos idênticos, hashtags empilhadas sem contexto, interações mecânicas e falta de histórico consistente. Por isso, a recomendação prática é:
+
+- **Comentar com conteúdo relevante**, não apenas “concordo” ou emojis soltos.
+- **Usar hashtags de forma contextualizada**, evitando listas longas e genéricas que caracterizam spam.
+- **Assistir aos vídeos até o fim** quando o formato for vídeo, sinalizando retenção real.
+- **Interagir com constância e variedade**, em vez de picos artificiais de atividade.
+- **Evitar ferramentas de automação** que violem os termos de uso das plataformas.
+- **Priorizar conversas reais** com pessoas, não apenas métricas.
+
+Em resumo: trending topics são atalhos de visibilidade, mas não são botões de controle. A melhor forma de tirar proveito deles é produzir engajamento autêntico, com pauta clara, linguagem adequada à plataforma e participação consistente — não simular comportamento humano para driblar a detecção.
+
+---
+
 ## Licença
 
 © Jorge Aldo Gomes de Freitas Junior
