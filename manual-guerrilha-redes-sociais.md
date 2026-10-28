@@ -1,8 +1,4 @@
 # Pequeno manual de guerrilha das redes sociais
-
-**Jorge Aldo Gomes de Freitas Junior**
-*Edição nº 1*
-
 ---
 
 ## Introdução
@@ -104,13 +100,13 @@ Os vídeos devem ser curtos. Os celulares permitem assistir a um vídeo no ônib
 
 ## O papel da retaliação
 
-Uma das estratégias da direita foi criar vídeos e posts com fake news, divulgando as piores barbáries para ganhar engajamento. Esses temas geram cliques e visualizações, mesmo que a notícia falsa seja desmentida logo depois. Em seguida, outra fake news é lançada, e o ciclo se repete, gerando engajamento orgânico para a conta. Trata-se de uma prática antiética.
+Uma das estratégias da direita foi criar vídeos e posts com fake news, divulgando as piores barbáries para ganhar engajamento. Esses temas geram cliques e visualizações, mesmo que a notícia falsa seja desmentida logo depois. Em seguida, outra fake news é lançada, e o ciclo se repete, gerando engajamento orgânico para a conta. O que acontece é que se você tentar corrigir a fake news, você acaba CRIANDO ENGAJAMENTO PARA ELA, logo, se quiser desmentir, faça via comentários da comunidade (se disponível) ou em outro lugar, sem fazer referência direta ao post do adversãrio (Ex.: "Dizem por ai que a lua é feita de queijo, vamos explorar esse tema hoje e mostrar como isso é mentira !")
 
-No Brasil, apesar de termos aprendido que na luta política vale a lei de talião, não precisamos disso tanto assim, porque temos muitos artistas orgânicos.
+No Brasil, apesar de termos aprendido que na luta política vale a lei de talião, não precisamos disso tanto assim, porque temos muitos artistas orgânicos, e podemos criar engajamento sem fake news.
 
 O que acontece é que aprendemos que a civilidade nasce de um acordo coletivo em que estratégias de má qualidade são abandonadas dos dois lados. Nosso campo é muito ligado à academia, onde fake news e xingamentos não são bem vistos e são prejudiciais, pois sugerem que não se tem argumentos. Acontece que nas redes sociais isso não funciona assim. Perdíamos discussões por insistir em debater tudo cientificamente, enquanto a direita apelava para o jogo sujo das fake news.
 
-É também uma questão ética que muita gente não aprova. Mas talvez seja necessária em ambientes mais tóxicos, como o nosso. Se a direita perceber que a esquerda também pode xingar, e que o xingamento não produz nada de verdadeiro, já que fica sem retaliação, talvez seja possível um acordo tácito entre os dois lados para evitar xingamentos e fake news.
+É também uma questão ética que muita gente não aprova. O que acontece é que a próprio resposta ao xingamento precisa levar em conta o engajamento, Você fica puto com um post de direita e quer xingar, daí você dá engajamento a ele. Por isso não recomendamos retaliar com xingamentos, se segurar, e ignorar.
 
 ---
 
